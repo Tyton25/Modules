@@ -16,10 +16,7 @@ public class Main {
 	}
 	
 	public static int[] sortIntegers(int[] array) {
-//		int[] sortedArray = new int[array.length];
-//		for(int i=0; i<array.length; i++) {
-//			sortedArray[i] = array[i];
-//		}
+		
 		int[] sortedArray = Arrays.copyOf(array, array.length);
 		boolean flag = true;
 		int temp;		
