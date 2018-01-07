@@ -1,5 +1,5 @@
 package com.tyton25;
-// /c/Users/tyton25/eclipse-workspace/Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Arrays-(Challenge-Exercise)-Source-code/src/com/timbuchalka/Main_TEB.java
+
 import java.util.Arrays;
 import java.util.Scanner;
 
