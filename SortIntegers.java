@@ -3,7 +3,7 @@ package com.tyton25;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_TCB {
+public class Main {
 	
 	private static Scanner scanner = new Scanner(System.in);
 	
